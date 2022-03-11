@@ -23,8 +23,12 @@ Coming Soon!
 
 ## How to Use the tool:
 1. Enter your preferred rules of setting the password. (i.e. if you need special characters, how many characters in the password, etc)
+![image](https://user-images.githubusercontent.com/95199209/157985128-3e31123d-d2a3-49ad-8740-eaafc90cfcac.png)
 2. Click the "Generate Password" Button and your password is shown in the central box.
+![image](https://user-images.githubusercontent.com/95199209/157985174-71c8fb47-5bce-485e-b429-09aa43ac4ee5.png)
 3. Copy the password to be used.
+![image](https://user-images.githubusercontent.com/95199209/157985248-15eb2e10-3e1d-4149-86fa-4fb2dcc72707.png)
+
 
 ## Link to the Deployed Application:
 https://hfang821.github.io/password-generator/
